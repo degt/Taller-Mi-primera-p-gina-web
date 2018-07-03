@@ -1,7 +1,5 @@
 # Mi primera página web
 
-![Logo Mi primera página web](./assets/img/afiche.png)
-
 ## Bienvenidos
 
 Bienvenidos a una nueva actividad de la Academia Desafío Latam, en esta oportunidad vamos a aprender nuestra primera página web.
@@ -32,8 +30,6 @@ Como editor de texto te recomendamos:
 - [Sublime](https://www.sublimetext.com/)
 
 ***Con el editor de texto instalado pasemos a la siguiente sección***
-
-![](https://media.giphy.com/media/3orifhzNWppklno4i4/giphy.gif)
 
 
 ## ¿Qué es lo que vamos a crear?
@@ -707,7 +703,7 @@ Luego, al interior de footer incluye lo siguiente
 
 ```html
 <footer>
-  <h2><span>Todos los derechos resetvados <br> ©2018</h2>
+  <h2><span>Todos los derechos reservados <br> ©2018</h2>
 </footer>
 ```
 Guarda y recarga la página, el final de tu pápáginagina debería verse así.
@@ -800,7 +796,7 @@ si todo salió bien tu código debería verse así:
 
 
 		<footer>
-	  		<h2><span>Todos los derechos resetvados <br> ©2018</h2>
+	  		<h2><span>Todos los derechos reservados <br> ©2018</h2>
 		</footer>
 	</body>
 </html>
@@ -903,7 +899,7 @@ Sólo hicimos la primera tarjeta, realiza el mismo proceso para el resto. Al fin
 	    </main>
 
 		<footer>
-	  		<h2><span>Todos los derechos resetvados <br> ©2018</h2>
+	  		<h2><span>Todos los derechos reservados <br> ©2018</h2>
 		</footer>
 	</body>
 </html>
@@ -1256,7 +1252,7 @@ Si añadiste todas las etiquetas de forma correcta tu código debería verse as�
 	    </main>
 
 		<footer>
-	  		<h2><span>Todos los derechos resetvados <br> ©2018</h2>
+	  		<h2><span>Todos los derechos reservados <br> ©2018</h2>
 		</footer>
 	</body>
 </html>
