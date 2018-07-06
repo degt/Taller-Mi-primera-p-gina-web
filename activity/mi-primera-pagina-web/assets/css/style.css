@@ -1,16 +1,18 @@
 /* Header */
 
 .header {
-  background-color: #66D34F;
+  background-color: #111e2e;
   color: white;
   font-family: 'Raleway', sans-serif;
   text-align: center;
+  padding-bottom: 20px;
 }
 
 .header h1 {
   font-size: 100px;
   font-weight: 900;
   text-transform: uppercase;
+  line-height: 60px;
 }
 
 .header span {
@@ -25,12 +27,13 @@
   font-family: 'Roboto Slab', serif;
 }
 
-.card {
-  margin-top: 40px;
+img {
+  margin-bottom: 10px;
 }
 
-.card-text {
+p{
   font-weight: 300;
+  font-family: 'Roboto Slab', serif;
 }
 
 /* Footer */

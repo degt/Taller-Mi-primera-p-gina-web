@@ -333,29 +333,34 @@ Ya sabemos crear titulares, así que manos a la obra, crearemos 9 titulares `h5`
 <!DOCTYPE html>
 <html lang="es" dir="ltr">
   <head>
-  	 <meta charset="utf-8">
+     <meta charset="utf-8">
     <title>Mi primera página web</title>
   </head>
   <body>
     <h1><span>Mi primera</span><br>página web</h1>
 
-    <h5>Cocinando</h5>
-    
-    <h5>Arreglando la casa</h5>
-	
-	 <h5>Haciendo Ejercicios</h5>
+    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h5>
 
-	 <h5>Cuando hicimos el aseo "juntos"</h5>
-	
-	 <h5>Asado en el parque</h5>
-	 
-	 <h5>Mis primeros cuentos</h5>
-	 
-	 <h5>Fiesta de Halloween</h5>
-	 
-	 <h5>Cenando Juntos</h5>
-	 
-	 <h5>Cuando gané por primera vez</h5> 
+    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h5>
+
+    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h5>
+
+    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h5>
+
+    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h5>
+
+    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h5>
+
+    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h5>
+
+    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h5>
+
+    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h5>
+
+    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h5>
+
+    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h5>
+
   </body>
 </html>
 ```
@@ -389,41 +394,48 @@ Si completas todos los párrafos, tu código y página debería verse así.
 ```html
 <!DOCTYPE html>
 <html lang="es" dir="ltr">
-  	<head>
-  	 	<meta charset="utf-8">
-    	<title>Mi primera página web</title>
-  	</head>
-  	<body>
-    	<h1><span>Mi primera</span><br>página web</h1>
+  <head>
+     <meta charset="utf-8">
+    <title>Mi primera página web</title>
+  </head>
+  <body>
+    <h1><span>Mi primera</span><br>página web</h1>
 
-	    <h5>Cocinando</h5>
-	    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-	    
-	    <h5>Arreglando la casa</h5>
-	    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h5>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id soluta ut repellendus recusandae incidunt error, alias sequi quia, pariatur ex, officiis vitae officia rerum nam modi harum minima, tenetur ipsa.</p>
 
-		
-		<h5>Haciendo Ejercicios</h5>
-	    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-	    
-		<h5>Cuando hicimos el aseo "juntos"</h5>
-	    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-	    	
-		<h5>Asado en el parque</h5>
-	    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-	    	 
-		<h5>Mis primeros cuentos</h5>
-	    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-	    	 
-		<h5>Fiesta de Halloween</h5>
-	    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-	    	 
-		<h5>Cenando Juntos</h5>
-	    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-	    	 
-		<h5>Cuando gané por primera vez</h5> 
-	    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-	</body>
+    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h5>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id soluta ut repellendus recusandae incidunt error, alias sequi quia, pariatur ex, officiis vitae officia rerum nam modi harum minima, tenetur ipsa.</p>
+
+    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h5>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id soluta ut repellendus recusandae incidunt error, alias sequi quia, pariatur ex, officiis vitae officia rerum nam modi harum minima, tenetur ipsa.</p>
+
+    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h5>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id soluta ut repellendus recusandae incidunt error, alias sequi quia, pariatur ex, officiis vitae officia rerum nam modi harum minima, tenetur ipsa.</p>
+
+    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h5>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id soluta ut repellendus recusandae incidunt error, alias sequi quia, pariatur ex, officiis vitae officia rerum nam modi harum minima, tenetur ipsa.</p>
+
+    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h5>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id soluta ut repellendus recusandae incidunt error, alias sequi quia, pariatur ex, officiis vitae officia rerum nam modi harum minima, tenetur ipsa.</p>
+
+    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h5>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id soluta ut repellendus recusandae incidunt error, alias sequi quia, pariatur ex, officiis vitae officia rerum nam modi harum minima, tenetur ipsa.</p>
+
+    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h5>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id soluta ut repellendus recusandae incidunt error, alias sequi quia, pariatur ex, officiis vitae officia rerum nam modi harum minima, tenetur ipsa.</p>
+
+    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h5>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id soluta ut repellendus recusandae incidunt error, alias sequi quia, pariatur ex, officiis vitae officia rerum nam modi harum minima, tenetur ipsa.</p>
+
+    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h5>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id soluta ut repellendus recusandae incidunt error, alias sequi quia, pariatur ex, officiis vitae officia rerum nam modi harum minima, tenetur ipsa.</p>
+
+    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h5>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id soluta ut repellendus recusandae incidunt error, alias sequi quia, pariatur ex, officiis vitae officia rerum nam modi harum minima, tenetur ipsa.</p>
+
+
+  </body>
 </html>
 ```
 
@@ -473,7 +485,7 @@ Mi código se debe ver así:
     	<h1><span>Mi primera</span><br>página web</h1>
 	    
 	    <img src="https://scontent.fscl6-1.fna.fbcdn.net/v/t1.0-9/30571957_2153329024941595_8643680236489146368_n.jpg?_nc_cat=0&oh=01f6ce80a424ed30709ccef1aeabfe82&oe=5B948E5A">
-	    <h5>Cocinando con papá</h5>
+	    <h5>Cocinando</h5>
 	    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	    
 	    <h5>Arreglando la casa</h5>
@@ -543,7 +555,7 @@ Ya con las fotos incorporadas, voy añadir las primeras, luegos ustedes ya sabr�
    	 	<h1><span>Mi primera</span><br>página web</h1>
    	 	
    		<img src="./assets/img/img-1.jpg" alt="cocinando">
-   		<h5>Cocinando con papá</h5>
+   		<h5>Cocinando</h5>
 	    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	    
    		<img src="./assets/img/img-2.jpg" alt="arreglando">
@@ -610,7 +622,7 @@ Hagamos un pequeño resumen de lo que hemos aprendido: Si todo salió bien, nues
     	<h1><span>Mi primera</span><br>página web</h1>
    		
    		<img src="./assets/img/img-1.jpg" alt="cocinando">
-   		<h5>Cocinando con papá</h5>
+   		<h5>Cocinando</h5>
 	    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	    
    		<img src="./assets/img/img-2.jpg" alt="arreglando">
@@ -752,7 +764,7 @@ si todo salió bien tu código debería verse así:
 		    <div class="">
 		   		<div class="">
 		   		<img src="./assets/img/img-1.jpg" alt="cocinando">
-		   		<h5>Cocinando con papá</h5>
+		   		<h5>Cocinando</h5>
 			    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 			    
 		   		<img src="./assets/img/img-2.jpg" alt="arreglando">
@@ -830,7 +842,7 @@ Sólo hicimos la primera tarjeta, realiza el mismo proceso para el resto. Al fin
 			   		<div class="">
 				   		<img src="./assets/img/img-1.jpg" alt="cocinando">
 				   		<div class="">
-					   		<h5>Cocinando con papá</h5>
+					   		<h5>Cocinando</h5>
 						    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 					    </div>
 				    </div>
@@ -1112,9 +1124,9 @@ ingresamos dos clases a esta etiqueta `container-fluid` y `header`
 2. En nuestra etiqueta `main` añade la clase:
 	
 ```html
-  <main class="container remember-cards">
+  <main class="container">
 ```
-ingresamos dos clases a esta etiqueta `container` y `remember-cards`
+ingresamos una clase a esta etiqueta `container`
 
 3.	El primer `div` bajo main tendra la siguiente clase:
 	
@@ -1127,39 +1139,10 @@ ingresamos la clases `row` a esta estiqueta que envuelve todos los otros divs.
 4. El div que agrupa 3 tarjetas llevará la siguiente clase:
 	
 ```html
-	<div class="card-deck">
+	<div class="col-md-4">
 ```
   ingresamos la clases `card-deck` a esta estiqueta.
 
-5.	El div que envuelve a la tarjeta llevará la clase:
-	
-```html
-  <div class="card">	
-```
-
-Esta clase se repite en todos los divs que agrupan las imágenes, el div y los textos de la tarjeta.
-
-6.	Todas las imágenes llevaran la clase:
-	
-```html
-	<img class="card-img-top">
-```
-
-7.	El div que agrupa los textos de las tarjetas llevará:
-	
-```html
-	<div class="card-body">
-```
-
-8. todos los `h5` llevarán la etiqueta
-
-```html
-		<h5 class="card-title">
-```
-9.	Todos los `p` llevarán la etiqueta:
-	
-```html
-  <p class="card-text">
 ```
 
 Si añadiste todas las etiquetas de forma correcta tu código debería verse así:
@@ -1177,79 +1160,73 @@ Si añadiste todas las etiquetas de forma correcta tu código debería verse as�
 	    	<h1>Mi primera<br>página web</h1>
 	    </header>
 
-		<main class="container remember-cards">
-		    <div class="row">
-		   		<div class="card-deck">
-			   		<div  class="card">
-				   		<img src="./assets/img/img-1.jpg" alt="cocinando" class="card-img-top">
-				   		<div class="card-body">
-					   		<h5 class="card-title">Cocinando con papá</h5>
-						    <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-					    </div>
-				    </div>
-				    <div  class="card">
-				   		<img src="./assets/img/img-2.jpg" alt="arreglando" class="card-img-top">
-				   		<div class="card-body">
-					   		<h5 class="card-title">Arreglando la casa</h5>
-						    <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-					    </div>
-				    </div>
-				    <div  class="card">
-				   		<img src="./assets/img/img-3.jpg" alt="ejercicios" class="card-img-top">
-				   		<div class="card-body">
-					   		<h5 class="card-title">Haciendo Ejercicios</h5>
-						    <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-					    </div>
-				    </div>
-				</div>
-				<div class="card-deck">
-			   		<div  class="card">
-				   		<img src="./assets/img/img-4.jpg" alt="cocinando" class="card-img-top">
-				   		<div class="card-body">
-							<h5 class="card-title">Cuando hicimos el aseo "juntos"</h5>
-						    <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-					    </div>
-				    </div>
-				    <div  class="card">
-				   		<img src="./assets/img/img-5.jpg" alt="arreglando" class="card-img-top">
-				   		<div class="card-body">
-					   		<h5 class="card-title">Asado en el parque</h5>
-						    <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-					    </div>
-				    </div>
-				    <div  class="card">
-				   		<img src="./assets/img/img-6.jpg" alt="ejercicios" class="card-img-top">
-				   		<div class="card-body">
-					   		<h5 class="card-title">Mis primeros cuentos</h5>
-						    <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-					    </div>
-				    </div>
-				</div>
-				<div class="card-deck">
-			   		<div class="card">
-				   		<img src="./assets/img/img-7.jpg" alt="cocinando" class="card-img-top">
-				   		<div class="card-body">
-					   		<h5 class="card-title">Fiesta de Halloween</h5>
-						    <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-					    </div>
-				    </div>
-				    <div class="card">
-				   		<img src="./assets/img/img-8.jpg" alt="arreglando" class="card-img-top">
-				   		<div class="card-body">
-					   		<h5 class="card-title">Cenando Juntos</h5>
-						    <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-					    </div>
-				    </div>
-				    <div class="card">
-				   		<img src="./assets/img/img-9.jpg" alt="ejercicios" class="card-img-top">
-				   		<div class="card-body">
-					   		<h5 class="card-title">Cuando gané por primera vez</h5>
-						    <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-					    </div>
-				    </div>
-				</div>
-	    	</div>
-	    </main>
+		<main class="container">
+    <div class="row">
+      <!--Col-->
+      <div class="col-md-4">
+        <img src="assets/img/img-1.jpg" class="img-fluid" alt="">
+        <h5>Aliquet lectus sollicitudin nulla libero</h5>
+        <p>Aliquet lectus sollicitudin nulla libero diam luctus pharetra tempor maecenas, per tellus etiam class purus quam et mus</p>
+      </div>
+      <!--/Col-->
+      <!--Col-->
+      <div class="col-md-4">
+        <img src="assets/img/img-2.jpg" class="img-fluid" alt="">
+        <h5>Aliquet lectus sollicitudin nulla libero</h5>
+        <p>Aliquet lectus sollicitudin nulla libero diam luctus pharetra tempor maecenas, per tellus etiam class purus quam et mus</p>
+      </div>
+      <!--/Col-->
+      <!--Col-->
+      <div class="col-md-4">
+        <img src="assets/img/img-3.jpg" class="img-fluid" alt="">
+        <h5>Aliquet lectus sollicitudin nulla libero</h5>
+        <p>Aliquet lectus sollicitudin nulla libero diam luctus pharetra tempor maecenas, per tellus etiam class purus quam et mus</p>
+      </div>
+      <!--/Col-->
+      <!--Col-->
+      <div class="col-md-4">
+        <img src="assets/img/img-4.jpg" class="img-fluid" alt="">
+        <h5>Aliquet lectus sollicitudin nulla libero</h5>
+        <p>Aliquet lectus sollicitudin nulla libero diam luctus pharetra tempor maecenas, per tellus etiam class purus quam et mus</p>
+      </div>
+      <!--/Col-->
+      <!--Col-->
+      <div class="col-md-4">
+        <img src="assets/img/img-5.jpg" class="img-fluid" alt="">
+        <h5>Aliquet sollicitudin nulla libero</h5>
+        <p>Aliquet lectus sollicitudin nulla libero diam luctus pharetra tempor maecenas, per tellus etiam class purus quam et mus</p>
+      </div>
+      <!--/Col-->
+      <!--Col-->
+      <div class="col-md-4">
+        <img src="assets/img/img-6.jpg" class="img-fluid" alt="">
+        <h5>Aliquet lectus sollicitudin nulla libero</h5>
+        <p>Aliquet lectus sollicitudin nulla libero diam luctus pharetra tempor maecenas, per tellus etiam class purus quam et mus</p>
+      </div>
+      <!--/Col-->
+      <!--Col-->
+      <div class="col-md-4">
+        <img src="assets/img/img-7.jpg" class="img-fluid" alt="">
+        <h5>Aliquet lectus sollicitudin nulla libero</h5>
+        <p>Aliquet lectus sollicitudin nulla libero diam luctus pharetra tempor maecenas, per tellus etiam class purus quam et mus</p>
+      </div>
+      <!--/Col-->
+      <!--Col-->
+      <div class="col-md-4">
+        <img src="assets/img/img-8.jpg" class="img-fluid" alt="">
+        <h5>Aliquet lectus sollicitudin nulla libero</h5>
+        <p>Aliquet lectus sollicitudin nulla libero diam luctus pharetra tempor maecenas, per tellus etiam class purus quam et mus</p>
+      </div>
+      <!--/Col-->
+      <!--Col-->
+      <div class="col-md-4">
+        <img src="assets/img/img-9.jpg" class="img-fluid" alt="">
+        <h5>Aliquet lectus sollicitudin nulla libero</h5>
+        <p>Aliquet lectus sollicitudin nulla libero diam luctus pharetra tempor maecenas, per tellus etiam class purus quam et mus</p>
+      </div>
+      <!--/Col-->
+    </div>
+  </main>
 
 		<footer>
 	  		<h2><span>Todos los derechos reservados <br> ©2018</h2>
@@ -1343,19 +1320,13 @@ header span {
   font-weight: 300;
 }
 
-/* Remenber Cards */
-
-.remember-cards {
-  padding: 30px 10px;
-  font-family: 'Roboto Slab', serif;
+img {
+  margin-bottom: 10px;
 }
 
-.card {
-  margin-top: 40px;
-}
-
-.card-text {
+p{
   font-weight: 300;
+  font-family: 'Roboto Slab', serif;
 }
 
 /* Footer */
