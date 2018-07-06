@@ -1141,9 +1141,7 @@ ingresamos la clases `row` a esta estiqueta que envuelve todos los otros divs.
 ```html
 	<div class="col-md-4">
 ```
-  ingresamos la clases `card-deck` a esta estiqueta.
-
-```
+  ingresamos la clases `col-md-4` a esta estiqueta.
 
 Si añadiste todas las etiquetas de forma correcta tu código debería verse así:
 
@@ -1227,6 +1225,7 @@ Si añadiste todas las etiquetas de forma correcta tu código debería verse as�
       <!--/Col-->
     </div>
   </main>
+
 
 		<footer>
 	  		<h2><span>Todos los derechos reservados <br> ©2018</h2>
