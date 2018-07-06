@@ -749,65 +749,64 @@ si todo salió bien tu código debería verse así:
 ```html
 <!DOCTYPE html>
 <html lang="es" dir="ltr">
-  	<head>
-  	 	<meta charset="utf-8">
-    	<title>Mi primera página web</title>
-  	</head>
-  	<body>
-  		<header>
-   			 <h1><span>Mi primera</span><br>página web</h1>
-	    </header>
 
-		<main>
+<head>
+    <meta charset="utf-8">
+    <title>Mi primera página web</title>
+</head>
 
-		    <div class="">
-		   		<div class="">
-  		   		<img src="./assets/img/img-1.jpg" alt="cocinando">
-  		   		<h5>Cocinando</h5>
-  			    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  			    
-  		   		<img src="./assets/img/img-2.jpg" alt="arreglando">
-  			    <h5>Arreglando la casa</h5>
-  			    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<body>
+    <header>
+        <h1><span>Mi primera</span><br>página web</h1>
+    </header>
+    <main>
+        <div class="">
+            <div class="">
+                <img src="./assets/img/img-1.jpg" alt="cocinando">
+                <h5>Cocinando</h5>
+                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                
+                <img src="./assets/img/img-2.jpg" alt="arreglando">
+                <h5>Arreglando la casa</h5>
+                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                
+                <img src="./assets/img/img-3.jpg" alt="ejercicios">
+                <h5>Haciendo Ejercicios</h5>
+                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+                </p>
+                
+                <img src="./assets/img/img-4.jpg" alt="haciendo el aseo">
+                <h5>Cuando hicimos el aseo "juntos"</h5>
+                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                
+                <img src="./assets/img/img-5.jpg" alt="en el parque">
+                <h5>Asado en el parque</h5>
+                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                
+                <img src="./assets/img/img-6.jpg" alt="cuentos">
+                <h5>Mis primeros cuentos</h5>
+                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                
+                <img src="./assets/img/img-7.jpg" alt="Halloween">
+                <h5>Fiesta de Halloween</h5>
+                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                
+                <img src="./assets/img/img-8.jpg" alt="cenando">
+                <h5>Cenando Juntos</h5>
+                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                
+                <img src="./assets/img/img-9.jpg" alt="ganando">
+                <h5>Cuando gané por primera vez</h5>
+                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                
+            </div>
+        </div>
+    </main>
+    <footer>
+        <h2><span>Todos los derechos reservados <br> ©2018</h2>
+    </footer>
+</body>
 
-  				  <img src="./assets/img/img-3.jpg" alt="ejercicios">
-  				  <h5>Haciendo Ejercicios</h5>
-  			    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  			    </div>
-  			    
-  			    <img src="./assets/img/img-4.jpg" alt="haciendo el aseo">
-  				  <h5>Cuando hicimos el aseo "juntos"</h5>
-  			    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  			    
-  			    <img src="./assets/img/img-5.jpg" alt="en el parque">	
-  				  <h5>Asado en el parque</h5>
-  			    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  			    
-  			    <img src="./assets/img/img-6.jpg" alt="cuentos">	 
-  				  <h5>Mis primeros cuentos</h5>
-  			    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  			    </div>
-
-  			    <img src="./assets/img/img-7.jpg" alt="Halloween">	 
-  				  <h5>Fiesta de Halloween</h5>
-  			    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  			    
-  			    <img src="./assets/img/img-8.jpg" alt="cenando">
-  				  <h5>Cenando Juntos</h5>
-  			    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  			    
-  			    <img src="./assets/img/img-9.jpg" alt="ganando">	 
-  				  <h5>Cuando gané por primera vez</h5> 
-  			    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-		     </div>
-	     </div>
-	    </main>
-
-
-		<footer>
-	  		<h2><span>Todos los derechos reservados <br> ©2018</h2>
-		</footer>
-	</body>
 </html>
 ```
 Ahora vamos añadir los `divs` que estarán dentro de las tarjetas. 
@@ -823,94 +822,93 @@ Sólo hicimos la primera tarjeta, realiza el mismo proceso para el resto. Al fin
 ```html
 <!DOCTYPE html>
 <html lang="es" dir="ltr">
-  	<head>
-  	 	<meta charset="utf-8">
-    	<title>Mi primera página web</title>
-  	</head>
-  	<body>
-  		<header>
-	    	   <h1><span>Mi primera</span><br>página web</h1>
-	    </header>
 
-		<main>
+<head>
+    <meta charset="utf-8">
+    <title>Mi primera página web</title>
+</head>
 
-		    <div class="">
-		   		<div class="">
-			   		<div class="">
-				   		<div class="">
-                <img src="./assets/img/img-1.jpg" alt="cocinando">
-					   		<h5>Cocinando</h5>
-						    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-					    </div>
-				    </div>
-				    <div class="">
-				   		<div class="">
-                <img src="./assets/img/img-2.jpg" alt="arreglando">
-					   		<h5>Arreglando la casa</h5>
-						    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-					    </div>
-				    </div>
-				    <div class="">
-				   		<div class="">
-                <img src="./assets/img/img-3.jpg" alt="ejercicios">
-					   		<h5>Haciendo Ejercicios</h5>
-						    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-					    </div>
-				    </div>
-				</div>
-				<div class="">
-			   		<div class="">
-				   		<div class="">
-                <img src="./assets/img/img-4.jpg" alt="cocinando">
-							  <h5>Cuando hicimos el aseo "juntos"</h5>
-						    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-					    </div>
-				    </div>
-				    <div class="">
-				   		<div class="">
-                <img src="./assets/img/img-5.jpg" alt="arreglando">
-					   		<h5>Asado en el parque</h5>
-						    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-					    </div>
-				    </div>
-				    <div class="">
-				   		<div class="">
-                <img src="./assets/img/img-6.jpg" alt="ejercicios">
-					   		<h5>Mis primeros cuentos</h5>
-						    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-					    </div>
-				    </div>
-				</div>
-				<div class="">
-			   		<div class="">
-				   		<div class="">
-                <img src="./assets/img/img-7.jpg" alt="cocinando">
-					   		<h5>Fiesta de Halloween</h5>
-						    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-					    </div>
-				    </div>
-				    <div class="">
-				   		<div class="">
-                <img src="./assets/img/img-8.jpg" alt="arreglando">
-					   		<h5>Cenando Juntos</h5>
-						    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-					    </div>
-				    </div>
-				    <div class="">
-				   		<div class="">
-                <img src="./assets/img/img-9.jpg" alt="ejercicios">
-					   		<h5>Cuando gané por primera vez</h5>
-						    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-					    </div>
-				    </div>
-				</div>
-	    	</div>
-	    </main>
+<body>
+    <header>
+        <h1><span>Mi primera</span><br>página web</h1>
+    </header>
+    <main>
+        <div class="">
+            <div class="">
+                <div class="">
+                    <!--Col-->
+                    <div class="">
+                        <img src="./assets/img/img-1.jpg" alt="cocinando">
+                        <h5>Lorem ipsum dolor sit amet</h5>
+                        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    </div>
 
-		<footer>
-	  		<h2><span>Todos los derechos reservados <br> ©2018</h2>
-		</footer>
-	</body>
+                    <!--Col-->
+                    <div class="">
+                        <img src="./assets/img/img-2.jpg" alt="cocinando">
+                        <h5>Lorem ipsum dolor sit amet</h5>
+                        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    </div>
+
+                    <!--Col-->
+                    <div class="">
+                        <img src="./assets/img/img-3.jpg" alt="cocinando">
+                        <h5>Lorem ipsum dolor sit amet</h5>
+                        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    </div>
+
+                    <!--Col-->
+                    <div class="">
+                        <img src="./assets/img/img-4.jpg" alt="cocinando">
+                        <h5>Lorem ipsum dolor sit amet</h5>
+                        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    </div>
+
+                    <!--Col-->
+                    <div class="">
+                        <img src="./assets/img/img-5.jpg" alt="cocinando">
+                        <h5>Lorem ipsum dolor sit amet</h5>
+                        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    </div>
+
+                    <!--Col-->
+                    <div class="">
+                        <img src="./assets/img/img-6.jpg" alt="cocinando">
+                        <h5>Lorem ipsum dolor sit amet</h5>
+                        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    </div>
+
+                    <!--Col-->
+                    <div class="">
+                        <img src="./assets/img/img-7.jpg" alt="cocinando">
+                        <h5>Lorem ipsum dolor sit amet</h5>
+                        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    </div>
+
+                    <!--Col-->
+                    <div class="">
+                        <img src="./assets/img/img-8.jpg" alt="cocinando">
+                        <h5>Lorem ipsum dolor sit amet</h5>
+                        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    </div>
+
+                    <!--Col-->
+                    <div class="">
+                        <img src="./assets/img/img-9.jpg" alt="cocinando">
+                        <h5>Lorem ipsum dolor sit amet</h5>
+                        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <h2><span>Todos los derechos reservados <br> ©2018</h2>
+    </footer>
+</body>
+
 </html>
 ```
 
